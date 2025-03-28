@@ -34,6 +34,15 @@ Assurez-vous d'avoir **Node.js** et **npm** installés sur votre machine et d'av
    ```
    L'application sera accessible dans votre navigateur à l'adresse **http://localhost:5173** (ou un autre port si spécifié).
 
+
+## Version en ligne 
+Il existe une version en hébergé du jeu mais nous avons un problème avec le fond d'écran, nous sommes en train de régler le problème. Lien vers le site:
+    ```
+    https://eco-mobile-clicker.netlify.app/
+
+    ```
+    
+
 ## Technologies Utilisées
 
 - **React** : Pour la construction de l'interface utilisateur.
