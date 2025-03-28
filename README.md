@@ -37,10 +37,9 @@ Assurez-vous d'avoir **Node.js** et **npm** installés sur votre machine et d'av
 
 ## Version en ligne 
 Il existe une version en hébergé du jeu mais nous avons un problème avec le fond d'écran, nous sommes en train de régler le problème. Lien vers le site:
-    ```
-    https://eco-mobile-clicker.netlify.app/
-
-    ```
+   ```bash
+   https://eco-mobile-clicker.netlify.app/
+   ```
     
 
 ## Technologies Utilisées
