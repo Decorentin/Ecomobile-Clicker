@@ -13,7 +13,7 @@ EcoMobile Clicker est une application interactive qui encourage l'utilisation de
 
 ### Prérequis
 
-Assurez-vous d'avoir **Node.js** et **npm** installés sur votre machine.
+Assurez-vous d'avoir **Node.js** et **npm** installés sur votre machine et d'avoir les extentions **ESLint** , **Tailwind CSS IntelliSense** et **TypeScript Vue Plugin** .
 
 ### Étapes d'installation
 
