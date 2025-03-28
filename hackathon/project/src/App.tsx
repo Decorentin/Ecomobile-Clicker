@@ -333,7 +333,7 @@ function App() {
           </div>
 
           <div className="mt-2 text-lg font-bold text-gray-800">
-            CO222 économisé: {co2Saved.toFixed(1)} kg
+            CO2 économisé: {co2Saved.toFixed(1)} kg
           </div>
 
           {/* Bonus temporaires */}
